@@ -13,7 +13,7 @@ export const projectsData = [
         id: 1,
         projectName: 'Blog Management',
         projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['C#', 'Asp.Net Core', 'N Layer Arch'],
+        tags: ['C#', '.NET', '.NET Core'],
         code: 'https://github.com/iamyasinkaya/www.yasinkaya.org',
         demo: 'https://github.com/iamyasinkaya/www.yasinkaya.org',
         image: one
