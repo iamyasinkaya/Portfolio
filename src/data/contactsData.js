@@ -1,7 +1,6 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
-
+    email: 'info@yasinkaya.org',
+    phone: '+90 530 328 8200',
+    address: 'ITÜ ARI 1 Maslak, 34467 Sarıyer/İstanbul ',
     sheetAPI: ''
 }
