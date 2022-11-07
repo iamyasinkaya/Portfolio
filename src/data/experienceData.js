@@ -1,6 +1,13 @@
 export const experienceData = [
     {
         id: 1,
+        company: 'Hepsiburada.com',
+        jobtitle: 'Marketplace Operation Specialist',
+        startYear: '2016',
+        endYear: '2019'
+    },
+    {
+        id: 2,
         company: 'Innthebox',
         jobtitle: 'Backend Developer',
         startYear: '2020',
