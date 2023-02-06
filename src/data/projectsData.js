@@ -11,12 +11,21 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Blog Management',
+        projectName: 'Personal Blog Management',
         projectDesc: 'This project is a personal blog application.',
         tags: ['C#', '.NET', 'MsSQL'],
         code: 'https://github.com/iamyasinkaya/www.yasinkaya.org',
         demo: 'https://github.com/iamyasinkaya/www.yasinkaya.org',
-        image: one
+        image: three
+    }, 
+    {
+        id: 2,
+        projectName: 'E-commerce Application',
+        projectDesc: 'This project is a Web API project written with a microservice.',
+        tags: ['C#', '.NET', 'MsSQL','PostgreSQL','MongoDB','JWT'],
+        code: 'https://github.com/iamyasinkaya/E-commerce',
+        demo: 'https://github.com/iamyasinkaya/E-commerce',
+        image: five
     },
 ]
 
