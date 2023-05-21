@@ -22,10 +22,10 @@ Dalınıza (branch) push yapın: git push origin feature/your-feature
 Bir pull isteği (pull request) oluşturun.
 
 ## Kurulum
-
+```bash
 1. Bu projeyi bilgisayarınıza klonlayın:
 
-```bash
+
 git clone https://github.com/iamyasinkaya/Portfolio.git
 
 2. Klonlanan dizine gidin:
