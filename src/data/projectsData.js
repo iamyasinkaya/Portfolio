@@ -12,7 +12,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Personal Blog Management',
-        projectDesc: 'This project is a personal blog application.',
+        projectDesc: 'The project is built in the C# programming language and uses the .NET Core framework. Thanks to this, the platform has an independent structure and can run on different operating systems.',
         tags: ['C#', '.NET', 'MsSQL'],
         code: 'https://github.com/iamyasinkaya/www.yasinkaya.org',
         demo: 'https://github.com/iamyasinkaya/www.yasinkaya.org',
@@ -21,7 +21,7 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'E-commerce Application',
-        projectDesc: 'This project is a Web API project written with a microservice.',
+        projectDesc: 'Shared as an open-source project, E-commerce allows users to view, add to a cart, and purchase various products. The project is designed as a web-based application and allows users to create accounts and log in',
         tags: ['C#', '.NET', 'MsSQL','PostgreSQL','MongoDB','JWT'],
         code: 'https://github.com/iamyasinkaya/E-commerce',
         demo: 'https://github.com/iamyasinkaya/E-commerce',

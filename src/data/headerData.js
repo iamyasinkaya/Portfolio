@@ -4,7 +4,7 @@ import image from '../assets/png/1614159324241.jpg'
 export const headerData = {
     name: 'Yasin KAYA',
     title: "Software Engineer", 
-    desciption:"I'm a back-end sofware engineer. I am currently working in one of the important fintech companies in Turkey. I have 3 years of work experience. The programming languages I often use are C# and .NET Core other technologies I use are mentioned below.",
+    desciption:"Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life. Because almost everything all external expectations, all pride, all fear of embarrassment or failure these things just fall away in the face of death, leaving only what is truly important. - Steve Jobs",
     image: image,
     resumePdf: resume
 }
