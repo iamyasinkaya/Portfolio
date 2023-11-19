@@ -1,55 +1,55 @@
 # Portfolio
 
-Bu, kişisel portfolyo web sitesi için bir başlangıç projesidir. Bu projeyi kullanarak kendi portfolyonuzu oluşturabilir ve kendinizi çevrimiçi olarak sergileyebilirsiniz.
+This is a starter project for a personal portfolio website. Using this project you can create your own portfolio and showcase yourself online.
 
-## Özellikler
+## Features
 
-- Projelerinizi ve çalışmalarınızı sergilemek için bir portfolyo sayfası
-- Proje detaylarını açıklayan ayrıntılı proje sayfaları
-- Resim, açıklama ve bağlantılarla birlikte projelerinizi listeleyen bir projeler sayfası
-- Hakkımda sayfası ile kişisel bilgilerinizi ve yeteneklerinizi paylaşma imkanı
-- İletişim sayfası aracılığıyla kullanıcılarla iletişim kurma
-- Duyuru veya blog yazıları paylaşmak için bir blog sayfası
-- Responsive tasarım, farklı cihazlarda düzgün görüntülenme
+- A portfolio page to showcase your projects and work
+- Detailed project pages explaining project details
+- A projects page listing your projects with images, descriptions, and links
+- About Me page to share your personal information and skills
+- Communicating with users through the contact page
+- A blog page to share announcements or blog posts
+- Responsive design, displaying properly on different devices
 
-# Katkıda Bulunma
-Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
+# Contributing
+If you would like to contribute to this project, please follow the steps below:
 
-Bu projeyi fork edin.
-Yeni bir dal (branch) oluşturun: git checkout -b feature/your-feature
-Değişikliklerinizi yapın ve bunları commit edin: git commit -am 'Add some feature'
-Dalınıza (branch) push yapın: git push origin feature/your-feature
-Bir pull isteği (pull request) oluşturun.
+Fork this project.
+Create a new branch: git checkout -b feature/your-feature
+Make your changes and commit them: git commit -am 'Add some feature'
+Push to your branch: git push origin feature/your-feature
+Create a pull request.
 
-## Kurulum
+## Installation
 ```bash
-1. Bu projeyi bilgisayarınıza klonlayın:
+1. Clone this project on your computer:
 
 
 git clone https://github.com/iamyasinkaya/Portfolio.git
 
-2. Klonlanan dizine gidin:
+2. Navigate to the cloned directory:
 
 
 cd Portfolio
 
-3. Gerekli bağımlılıkları yükleyin:
+3. Install the required dependencies:
 
 
 npm install
 
-4. Yapılandırma dosyasını düzenleyin:
+4. Edit the configuration file:
 
-src/data/profile.js dosyasında kişisel bilgilerinizi güncelleyin.
-src/data/projects.js dosyasında projelerinizi düzenleyin.
-src/data/skills.js dosyasında becerilerinizi düzenleyin.
+Update your personal information in src/data/profile.js.
+Edit your projects in src/data/projects.js.
+Edit your skills in src/data/skills.js.
 
-5. Geliştirme sunucusunu başlatın:
+5. Start the development server:
 
 
 npm start
 
-6. Tarayıcınızda http://localhost:3000 adresine giderek uygulamayı görüntüleyin.
+6. Navigate to http://localhost:3000 in your browser to view the app.
 
 
 
