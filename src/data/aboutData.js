@@ -1,11 +1,5 @@
 export const aboutData = {
     title: "Who I am",
     description1: "Hi! I am a developer and my specialty is C# and .NET Core. Along with my passion and experience in the software world, I work on various projects using C# and .NET Core. I have skills in developing both user-friendly applications for beginners and enterprise solutions with complex business logic. I love the C# programming language because it is both powerful and flexible.  It is an excellent tool for grasping object-oriented programming and provides a solid foundation for easily managing large projects. Also, thanks to the multi-platform support and performance of .NET Core, I can run my apps seamlessly on different operating systems.",
-    description2: "Here are some of my skills:",
-    description3: "Expertise in C#: I have extensive experience in the C# programming language and can grasp the key features of the language, object-oriented programming, database integration, file operations, and much more. Following the principles of good code quality and best application design is important to me.",
-    description4: ".NET Core Development: I have experience developing web apps, APIs, and even desktop apps using the .NET Core platform. I can create user-friendly interfaces using ASP.NET Core MVC or Razor Pages, and easily manage database operations with Entity Framework Core.",
-    description5: "Database Management: Using C# and .NET Core, I can create database tables and make queries. I have experience with popular database management systems such as SQL Server, MySQL or PostgreSQL. I can simplify database operations using ORM (Object-Relational Mapping) tools.",
-    description6: "Test and Debug: I am experienced in writing and debugging unit tests to ensure the quality of the code. I can use unit test frameworks such as NUnit, xUnit, or MSTest. I have troubleshooting skills to detect and fix errors.",
-    description7: "Communication and Teamwork: I am a person who can communicate effectively within the team. I am good at understanding project requirements and collaborating with clients or team members. I can work efficiently in teamwork as I am familiar with project management methodologies (e.g. Agile).",
-    description8: "For me, the software development process is not just about writing code, but also solving problems, creativity and continuous learning. My goal is to develop user-friendly and robust applications using C# and .NET Core and follow best practices on every project"
+    
 }

@@ -1,12 +1,60 @@
 export const blogData = [
-    // {
-    //     id: 1,
-    //     title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-    //     description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-    //     date: 'Aug 7, 2020',
-    //     image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-    //     url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
-    // },
+     {
+         id: 1,
+         title: 'RabbitMQ Documentation in Turkish',
+         description: 'These courses cover the basics of building messaging applications using RabbitMQ.',
+         date: 'Jul 28, 2023',
+         image: 'https://kockerim.com/wp-content/uploads/2022/11/rabbitmq.png',
+         url: 'https://medium.com/@iamyasinkaya/rabbitmq-t%C3%BCrk%C3%A7e-d%C3%B6k%C3%BCmantasyon-58d4985044a6'
+     },
+     {
+        id: 2,
+        title: 'RabbitMQ Tutorials in Turkish - Hello World!',
+        description: 'These courses cover the basics of building messaging applications using RabbitMQ.',
+        date: 'Jul 28, 2023',
+        image: 'https://kockerim.com/wp-content/uploads/2022/11/rabbitmq.png',
+        url: 'https://medium.com/@iamyasinkaya/t%C3%BCrk%C3%A7e-rabbitmq-e%C4%9Fitimleri-merhaba-d%C3%BCnya-f965951bd440'
+    },
+    {
+        id: 3,
+        title: 'Clean Code concepts adapted for .NET/.NET Core - Naming',
+        description: 'Software engineering principles adapted for .NET/.NET Core from Robert C. Martins Clean Code. This is not a style guide. It is a guide to producing readable, reusable, and reorganizable software in .NET/.NET Core.',
+        date: 'Jul 29, 2023',
+        image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*YhgbxgEpgFxC1yGSAUIQ2A.png',
+        url: 'https://medium.com/@iamyasinkaya/net-net-core-i%C3%A7in-uyarlanm%C4%B1%C5%9F-temiz-kod-kavramlar%C4%B1-i%CC%87simlendirme-5d8b082e9bc6'
+    },
+    {
+        id: 4,
+        title: 'Clean Code concepts adapted for .NET/.NET Core - Variables',
+        description: 'Software engineering principles adapted for .NET/.NET Core from Robert C. Martins Clean Code. This is not a style guide. It is a guide to producing readable, reusable, and reorganizable software in .NET/.NET Core.',
+        date: 'Jul 28, 2023',
+        image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*YhgbxgEpgFxC1yGSAUIQ2A.png',
+        url: 'https://medium.com/@iamyasinkaya/net-net-core-i%C3%A7in-uyarlanm%C4%B1%C5%9F-temiz-kod-kavramlar%C4%B1-de%C4%9Fi%C5%9Fkenler-171a9c8890aa'
+    },
+    {
+        id: 5,
+        title: 'Clean Code concepts adapted for .NET/.NET Core - Functions',
+        description: 'Software engineering principles adapted for .NET/.NET Core from Robert C. Martins Clean Code. This is not a style guide. It is a guide to producing readable, reusable, and reorganizable software in .NET/.NET Core.',
+        date: 'Aug 20, 2023',
+        image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*YhgbxgEpgFxC1yGSAUIQ2A.png',
+        url: 'https://medium.com/@iamyasinkaya/net-net-core-i%C3%A7in-uyarlanm%C4%B1%C5%9F-temiz-kod-kavramlar%C4%B1-fonksiyonlar-77a6dc1c89b'
+    },
+    {
+        id: 6,
+        title: 'Clean Code concepts adapted for .NET/.NET Core - Objects, Data Structures and Classes',
+        description: 'Software engineering principles adapted for .NET/.NET Core from Robert C. Martins Clean Code. This is not a style guide. It is a guide to producing readable, reusable, and reorganizable software in .NET/.NET Core.',
+        date: 'Aug 20, 2023',
+        image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*YhgbxgEpgFxC1yGSAUIQ2A.png',
+        url: 'https://medium.com/@iamyasinkaya/net-net-core-i%C3%A7in-uyarlanm%C4%B1%C5%9F-temiz-kod-kavramlar%C4%B1-nesneler-veri-yap%C4%B1lar%C4%B1-ve-s%C4%B1n%C4%B1flar-9c99c8856918'
+    },
+    {
+        id: 7,
+        title: 'Using HTTP Methods for RESTful Services',
+        description: 'HTTP verbs form an important part of our "uniform interface" constraint and provide us with the action equivalent of a noun-based resource. The primary or most commonly used HTTP verbs (or methods as they are correctly called) are POST, GET, PUT, PATCH and DELETE.',
+        date: 'Sep 2, 2023',
+        image: 'https://images.ctfassets.net/vwq10xzbe6iz/5sBH4Agl614xM7exeLsTo7/9e84dce01735f155911e611c42c9793f/rest-api.png',
+        url: 'https://medium.com/@iamyasinkaya/restful-hizmetler-i%C3%A7in-http-y%C3%B6ntemlerini-kullanma-effd6898f136'
+    }
     // {
     //     id: 2,
     //     title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
